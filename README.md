@@ -7,3 +7,6 @@
 
 ## FrameWork:
   - vite
+
+## pacotes
+  - npm i -D @types/dom-speech-recognition 
